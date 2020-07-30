@@ -5,8 +5,8 @@ I'm a passionate french self-learning frontend webdev actually looking for a job
 
 Note that most of my activity is on [Gitlab](https://gitlab.com/maxlefou) and that I only share here my public/opensource works which are actually Gitlab mirror repositories.
 
-- [Check out my portfolio](https://jmf-portfolio.netlify.com/)
-- [Check out my Curiculum vitae (french only)](https://jmf-cv.netlify.com/)
+- [📓 Check out my portfolio](https://jmf-portfolio.netlify.com/)
+- [📃 Check out my Curiculum vitae (french only)](https://jmf-cv.netlify.com/)
 
 <p align="center"><i>Thanks for stopping by!</i></p>
 
