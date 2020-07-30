@@ -8,7 +8,7 @@ Note that most of my activity is on [Gitlab](https://gitlab.com/maxlefou) and th
 - [📓 Check out my portfolio](https://jmf-portfolio.netlify.com/)
 - [📃 Check out my curiculum vitae](https://jmf-cv.netlify.com/)
 
-<p align="center"><i>Thanks for stopping by!</i></p>
+<p align="center"><i>Thanks for stopping by!</i> 🙏</p>
 
 <!--
 **maxlefou/maxlefou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
