@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Max! 👋
+
+<img src="avatar.png" align="right">
+I'm a passionate french self-learning frontend webdev actually looking for a job. I'm also a software translator french-english, an opensource lover and I develop videogames as a hobby.
+
+Note that most of my activity is on [Gitlab](https://gitlab.com/maxlefou) and that I only share here my public/opensource works which are actually Gitlab mirror repositories.
+
+- [Check out my portfolio](https://jmf-portfolio.netlify.com/)
+- [Check out my Curiculum vitae (french only)](https://jmf-cv.netlify.com/)
+
+<p align="center"><i>Thanks for stopping by!</i></p>
 
 <!--
 **maxlefou/maxlefou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
