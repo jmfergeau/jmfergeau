@@ -1,6 +1,6 @@
 ### Hi there, I'm Max! 👋
 
-<img src="avatar.png" align="right">
+<img src="https://github.com/maxlefou/maxlefou/raw/master/avatar.png" align="right">
 I'm a passionate french self-learning frontend webdev actually looking for a job. I'm also a software translator french-english, an opensource lover and I develop videogames as a hobby.
 
 Note that most of my activity is on [Gitlab](https://gitlab.com/maxlefou) and that I only share here my public/opensource works which are actually Gitlab mirror repositories.
