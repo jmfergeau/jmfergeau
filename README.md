@@ -1,4 +1,4 @@
-### Hi there, I'm Max! 👋
+### Hi there, I'm Julien-Maxime, or Max! 👋
 
 <img src="https://github.com/maxlefou/maxlefou/raw/master/avatar.png" align="right" height="150px">
 I'm a passionate french self-learning frontend webdev actually looking for a job. I'm also a software translator french-english, an opensource lover and I develop videogames as a hobby.
