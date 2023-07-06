@@ -12,6 +12,12 @@ I'm in an urgent need of a job, so please consider checking the following:
 
 <p align="center"><i>Thanks for stopping by!</i> 🙏</p>
 
+<!--Statistics-->
+<a href="https://github.com/jmfergeau">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmfergeau&theme=dark&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfergeau&theme=dark&layout=compact&count_private=true" />
+</a>
+
 <!--
 **maxlefou/maxlefou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
