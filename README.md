@@ -8,7 +8,6 @@ Note that most of my activity is on [Gitlab](https://gitlab.com/maxlefou) and th
 I'm in an urgent need of a job, so please consider checking the following:
 
 - [📓 My portfolio](https://jmf-portfolio.netlify.com/)
-- [📃 My curiculum vitae](https://cvdesignr.com/p/64709b75a4bb1)
 
 <p align="center"><i>Thanks for stopping by!</i> 🙏</p>
 
