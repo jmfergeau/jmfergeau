@@ -1,0 +1,22 @@
+{
+  "name": "jmfergeau",
+  "version": "1.0.0",
+  "description": "GitHub intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmfergeau/jmfergeau.git"
+  },
+  "author": "JM Fergeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmfergeau/jmfergeau/issues"
+  },
+  "homepage": "https://github.com/jmfergeau/jmfergeau#readme",
+  "devDependencies": {
+    "eslint": "^8.46.0"
+  }
+}
