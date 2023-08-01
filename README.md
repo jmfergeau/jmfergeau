@@ -5,9 +5,7 @@ I'm a passionate french self-learning frontend webdev actually looking for a job
 
 Note that most of my activity is on [Gitlab](https://gitlab.com/maxlefou) and that I only share here my public/opensource works which are actually Gitlab mirror repositories.
 
-I'm in an urgent need of a job, so please consider checking the following:
-
-- [📓 My portfolio](https://jmf-portfolio.netlify.com/)
+I'm in an urgent need of a job, so please consider checking [📓 My portfolio](https://jmf-portfolio.netlify.com/)!
 
 <p align="center"><i>Thanks for stopping by!</i> 🙏</p>
 
@@ -17,17 +15,14 @@ I'm in an urgent need of a job, so please consider checking the following:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfergeau&theme=dark&layout=compact&count_private=true" />
 </a>
 
-<!--
-**maxlefou/maxlefou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Visitor count
 
-Here are some ideas to get you started:
+<img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Added the `Mon 3 Jan 2022`
+
+Last update on Tue Aug 01 2023
+
+**153 day before 2024 ⏱** days before new years
+
+🤖 This README.md is updated with wickedness, by Gabot ❤️
