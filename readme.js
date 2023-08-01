@@ -19,8 +19,6 @@ I'm in an urgent need of a job, so please consider checking [📓 My portfolio](
 
 <img src="https://profile-counter.glitch.me/jmfergeau/count.svg" />
 
-Added the \`Mon 3 Jan 2022\`
-
 Last update on <#today_date>
 
 <#day_before_new_years> days before new years
