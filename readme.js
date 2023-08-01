@@ -17,7 +17,7 @@ I'm in an urgent need of a job, so please consider checking [📓 My portfolio](
 
 ### Visitor count
 
-<img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
+<img src="https://profile-counter.glitch.me/jmfergeau/count.svg" />
 
 Added the \`Mon 3 Jan 2022\`
 
