@@ -1,9 +1,9 @@
 module.exports = `### Hi there, I'm Julien-Maxime, or Max! 👋
 
-<img src="https://github.com/maxlefou/maxlefou/raw/master/avatar.png" align="right" height="150px">
+<img src="https://github.com/jmfergeau/jmfergeau/raw/master/avatar.png" align="right" height="150px">
 I'm a passionate french self-learning frontend webdev actually looking for a job. I'm also a software translator french-english, an opensource lover and I develop videogames as a hobby.
 
-Note that most of my activity is on [Gitlab](https://gitlab.com/maxlefou) and that I only share here my public/opensource works which are actually Gitlab mirror repositories.
+Note that most of my activity is on [Gitlab](https://gitlab.com/jmfergeau) and that I only share here my public/opensource works which are actually Gitlab mirror repositories.
 
 I'm in an urgent need of a job, so please consider checking [📓 My portfolio](https://jmf-portfolio.netlify.com/)!
 
