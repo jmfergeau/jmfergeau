@@ -19,8 +19,8 @@ I'm in an urgent need of a job, so please consider checking [📓 My portfolio](
 
 <img src="https://profile-counter.glitch.me/jmfergeau/count.svg" />
 
-Last update on Sun Aug 13 2023
+Last update on Mon Aug 14 2023
 
-**141 day before 2024 ⏱** days before new years
+**140 day before 2024 ⏱** days before new years
 
-🤖 This README.md is updated with undefined, by Gabot ❤️
+🤖 This README.md is updated with hate, by Gabot ❤️
